@@ -1,0 +1,220 @@
+,location,lands_str,site,date,nest,sex,mated,campy_0,chlamy_0,salmo_0,pooled_0,species,wing,weight,j_date,smi
+1,Cadiz,continent,la esperanza,04/05/2015,a10,F,N,0,0,1,1,Charadrius alexandrinus,111,43.96,124,43.67003799
+2,Cadiz,continent,la esperanza,17/04/2015,a16,F,Y,0,0,1,1,Charadrius alexandrinus,115,46.42,107,44.82197616
+3,Cadiz,continent,la esperanza,24/04/2015,a20,F,Y,0,0,0,0,Charadrius alexandrinus,113,46.69,114,45.7219921
+4,Cadiz,continent,la esperanza,17/04/2015,a21,F,Y,0,0,0,0,Charadrius alexandrinus,110,41.67,107,41.69691079
+5,Cadiz,continent,la esperanza,24/04/2015,a22,F,Y,0,0,0,0,Charadrius alexandrinus,114,48.37,114,47.0333858
+6,Cadiz,continent,la esperanza,24/04/2015,a24,F,N,0,0,0,0,Charadrius alexandrinus,120,46.07,114,42.99016432
+7,Cadiz,continent,la esperanza,11/05/2015,a29,F,Y,0,0,0,0,Charadrius alexandrinus,112,48.43,131,47.76548071
+8,Cadiz,continent,la esperanza,24/04/2015,a34,F,Y,0,0,0,0,Charadrius alexandrinus,112,40.59,114,40.03305517
+9,Cadiz,continent,la esperanza,29/04/2015,a36,F,N,0,0,0,0,Charadrius alexandrinus,109,42.63,119,42.97135173
+10,Cadiz,continent,la esperanza,11/05/2015,a37,F,N,0,0,0,0,Charadrius alexandrinus,114,43.58,131,42.37574846
+11,Cadiz,continent,la esperanza,04/05/2015,a38,F,N,0,0,0,0,Charadrius alexandrinus,116,42.73,124,40.97328861
+12,Cadiz,continent,la esperanza,04/05/2015,a39,F,N,0,0,1,1,Charadrius alexandrinus,110,43.16,124,43.18787305
+13,Cadiz,continent,la esperanza,04/05/2015,a40,F,N,0,0,1,1,Charadrius alexandrinus,120,46.26,124,43.16746258
+14,Cadiz,continent,la esperanza,04/05/2015,a43,F,Y,0,0,0,0,Charadrius alexandrinus,112,42.93,124,42.34094749
+15,Cadiz,continent,la esperanza,04/05/2015,a44,F,Y,0,0,1,1,Charadrius alexandrinus,112,42.45,124,41.86753368
+16,Cadiz,continent,la esperanza,11/05/2015,a45,F,N,0,0,1,1,Charadrius alexandrinus,NA,NA,131,NA
+17,Cadiz,continent,la esperanza,04/05/2015,a46,F,Y,0,0,1,1,Charadrius alexandrinus,115,39.54,124,38.17882243
+18,Cadiz,continent,la esperanza,04/05/2015,a47,F,N,0,0,1,1,Charadrius alexandrinus,113,44.25,124,43.33257979
+19,Cadiz,continent,la esperanza,11/05/2015,a49,F,N,0,0,0,0,Charadrius alexandrinus,114,44.13,131,42.91055024
+20,Cadiz,continent,la esperanza,11/05/2015,a50,F,N,0,0,0,0,Charadrius alexandrinus,112,41.95,131,41.37439429
+21,Cadiz,continent,la esperanza,11/05/2015,a54,F,N,0,0,0,0,Charadrius alexandrinus,111,44.15,131,43.85878474
+22,Cadiz,continent,la esperanza,11/05/2015,a55,F,N,0,0,1,1,Charadrius alexandrinus,111,43.36,131,43.07399562
+23,Cadiz,continent,la esperanza,19/05/2015,a57,F,Y,0,1,0,1,Charadrius alexandrinus,107,39.13,139,40.03397379
+24,Cadiz,continent,la esperanza,18/05/2015,a59,F,Y,0,1,0,1,Charadrius alexandrinus,113,46.69,138,45.7219921
+25,Cadiz,continent,la esperanza,25/05/2015,a62,F,N,0,0,0,0,Charadrius alexandrinus,110,38.62,145,38.64494108
+26,Cadiz,continent,la esperanza,25/05/2015,a65,F,Y,0,0,0,0,Charadrius alexandrinus,112,39.46,145,38.91856016
+27,Cadiz,continent,la esperanza,01/06/2015,a66,F,Y,0,0,0,0,Charadrius alexandrinus,110,44.04,152,44.06844136
+28,Cadiz,continent,la esperanza,25/05/2015,a67,F,N,0,0,0,0,Charadrius alexandrinus,109,40.73,145,41.05613784
+29,Cadiz,continent,la esperanza,25/05/2015,a68,F,Y,0,0,0,0,Charadrius alexandrinus,110,42.87,145,42.89768576
+30,Cadiz,continent,la esperanza,25/05/2015,a69,F,N,0,0,0,0,Charadrius alexandrinus,113,40.17,145,39.33716904
+31,Cadiz,continent,la esperanza,08/06/2015,a74,F,N,0,0,0,0,Charadrius alexandrinus,112,39.68,159,39.13554149
+32,Cadiz,continent,la esperanza,17/04/2015,a8,F,Y,0,1,0,1,Charadrius alexandrinus,112,41.71,107,41.13768739
+33,Cadiz,continent,la esperanza,17/04/2015,a9,F,N,0,0,0,0,Charadrius alexandrinus,NA,44.83,107,NA
+34,Canary,island,Arrecife,13/04/2016,bP 1,F,Y,0,0,0,0,Charadrius alexandrinus,NA,NA,104,NA
+35,Canary,island,Janubio,19/04/2016,bJ,F,Y,0,0,0,0,Charadrius alexandrinus,110,40,110,40.02583229
+36,Canary,island,Janubio,30/05/2016,bJN,F,N,0,0,0,0,Charadrius alexandrinus,NA,NA,151,NA
+37,Canary,island,Janubio,17/04/2016,bJN 1,F,Y,0,0,1,1,Charadrius alexandrinus,NA,NA,108,NA
+38,Canary,island,Janubio,19/04/2016,bJS 4 ,F,Y,0,0,0,0,Charadrius alexandrinus,107,42,110,42.97027598
+39,Canary,island,Janubio,16/04/2016,bJS 6,F,Y,0,0,0,0,Charadrius alexandrinus,109,48,107,48.384351
+40,Canary,island,Janubio,22/04/2016,bJS 7,F,N,0,0,0,0,Charadrius alexandrinus,NA,NA,113,NA
+41,Canary,island,Janubio,03/05/2016,bJS 9,F,N,0,0,0,0,Charadrius alexandrinus,110,42,124,42.02712391
+42,Canary,island,La Santa,30/05/2016,bJS 8,F,Y,0,0,0,0,Charadrius alexandrinus,106,40,151,41.23365362
+43,Canary,island,La Santa,15/04/2016,bLS 1,F,Y,0,0,0,0,Charadrius alexandrinus,NA,NA,106,NA
+44,Canary,island,Lajiares,29/04/2016,bLAJ 2,F,Y,0,0,1,1,Charadrius alexandrinus,108,46.5,120,47.22035826
+45,Canary,island,Lajiares,20/05/2016,bLAJ 3,F,Y,0,0,0,0,Charadrius alexandrinus,110,43,141,43.02776972
+46,Canary,island,Lajiares,10/05/2016,bLAJ 4,F,Y,0,0,0,0,Charadrius alexandrinus,112,40,131,39.4511507
+47,Canary,island,Lajiares,20/05/2016,bLAJ 5,F,N,0,0,0,0,Charadrius alexandrinus,111,40,141,39.73615832
+48,Canary,island,Lomos Blancos,01/05/2016,bLM 1,F,N,0,0,0,0,Charadrius alexandrinus,109,42,122,42.33630712
+49,Donana,continent,"Abundancia, Isla Mayor",03/06/2015,c543,F,Y,0,0,0,0,Charadrius alexandrinus,110,39.1,154,39.12525107
+50,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c544,F,N,0,0,1,1,Charadrius alexandrinus,109,39.6,152,39.91708957
+51,Donana,continent,"Abundancia, Isla Mayor",02/06/2015,c545,F,N,0,0,0,0,Charadrius alexandrinus,109,54.4,153,54.8355978
+52,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c546,F,N,0,0,0,0,Charadrius alexandrinus,111,44.4,152,44.10713573
+53,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c548,F,Y,0,0,0,0,Charadrius alexandrinus,114,41,152,39.86704192
+54,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c549,F,N,0,0,1,1,Charadrius alexandrinus,109,45,152,45.36032906
+55,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c552,F,Y,0,0,1,1,Charadrius alexandrinus,112,41.1,152,40.53605734
+56,Donana,continent,"Abundancia, Isla Mayor",03/06/2015,c556,F,Y,1,0,0,1,Charadrius alexandrinus,114.5,45.7,154,44.28135347
+57,Donana,continent,"Abundancia, Isla Mayor",03/06/2015,c570,F,Y,0,0,0,0,Charadrius alexandrinus,107.5,41.4,154,42.19822267
+58,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",08/06/2015,c4,F,N,0,0,0,0,Charadrius alexandrinus,110,40.7,159,40.72628436
+59,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",08/06/2015,c5,F,Y,0,0,0,0,Charadrius alexandrinus,103,41.1,159,43.3551914
+60,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",08/06/2015,c562,F,Y,0,0,0,0,Charadrius alexandrinus,110,41.5,159,41.52680101
+61,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",09/06/2015,c569,F,Y,0,0,0,0,Charadrius alexandrinus,118,47,160,44.45362635
+62,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",08/06/2015,c6,F,N,0,0,0,0,Charadrius alexandrinus,111,46.5,159,46.19328405
+63,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",08/06/2015,c7,F,Y,0,0,0,0,Charadrius alexandrinus,106,38.7,159,39.89355987
+64,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",09/06/2015,c8,F,N,0,0,0,0,Charadrius alexandrinus,114,43.4,160,42.20072242
+65,Donana,continent,Brazo del Este,15/06/2015,c21,F,N,0,0,0,0,Charadrius alexandrinus,106,38.2,166,39.3781392
+66,Donana,continent,Brazo del Este,11/06/2015,c22,F,N,0,0,0,0,Charadrius alexandrinus,110,42.8,162,42.82764056
+67,Donana,continent,Brazo del Este,11/06/2015,c23,F,Y,0,0,1,1,Charadrius alexandrinus,113,43.7,162,42.79398275
+68,Donana,continent,Brazo del Este,11/06/2015,c25,F,Y,0,0,0,0,Charadrius alexandrinus,107,44.6,162,45.63034068
+69,Donana,continent,Brazo del Este,15/06/2015,c26,F,Y,0,0,0,0,Charadrius alexandrinus,102,42.4,166,45.07812514
+70,Donana,continent,Brazo del Este,15/06/2015,c28,F,Y,0,0,0,0,Charadrius alexandrinus,109,42.5,166,42.84031078
+71,Donana,continent,Brazo del Este,25/06/2015,c39,F,N,0,0,1,1,Charadrius alexandrinus,109,38.6,176,38.90908226
+72,Donana,continent,Brazo del Este,30/06/2015,c41,F,N,0,0,0,0,Charadrius alexandrinus,112,42,181,41.42370823
+73,Donana,continent,Brazo del Este,30/06/2015,c42,F,N,0,0,1,1,Charadrius alexandrinus,112,47.4,181,46.74961358
+74,Donana,continent,Brazo del Este,30/06/2015,c46,F,N,0,0,0,0,Charadrius alexandrinus,111,41.9,181,41.62362584
+75,Donana,continent,Brazo del Este,30/06/2015,c47,F,N,0,0,0,0,Charadrius alexandrinus,111,43.9,181,43.61043375
+76,Donana,continent,Brazo del Este,30/06/2015,c49,F,N,0,1,0,1,Charadrius alexandrinus,112,47.1,181,46.45372995
+77,Donana,continent,Brazo del Este,30/06/2015,c51,F,N,0,0,0,0,Charadrius alexandrinus,109,44.3,181,44.65472394
+78,Donana,continent,Puebla del Rio,18/06/2015,c12,F,Y,0,0,1,1,Charadrius alexandrinus,118,40.6,169,38.40036659
+79,Donana,continent,Puebla del Rio,10/06/2015,c15,F,Y,0,0,0,0,Charadrius alexandrinus,111,38.4,161,38.14671199
+80,Maio,island,C,16/10/2015,d1,F,N,0,0,0,0,Charadrius alexandrinus,115,41.97,289,40.52516888
+81,Maio,island,Rocky,07/10/2015,d-102,F,Y,0,0,0,0,Charadrius alexandrinus,108,37.59,280,38.17232832
+82,Maio,island,Rocky,17/10/2015,d-105,F,Y,0,0,0,0,Charadrius alexandrinus,111,36.36,290,36.12016791
+83,Maio,island,Rocky,20/10/2015,d-106,F,Y,0,0,0,0,Charadrius alexandrinus,108,32.29,293,32.79022297
+84,Maio,island,Rocky,23/09/2015,d1,F,N,0,0,0,0,Charadrius alexandrinus,113,41.18,266,40.32622906
+85,Maio,island,Rocky,06/10/2015,d101,F,Y,0,0,0,0,Charadrius alexandrinus,111,44.44,279,44.14687189
+86,Maio,island,Rocky,09/10/2015,d102,F,N,0,0,0,0,Charadrius alexandrinus,111,41.22,282,40.94811115
+87,Maio,island,Rocky,11/11/2015,d105,F,N,0,0,0,0,Charadrius alexandrinus,107,41.5,315,42.45872507
+88,Maio,island,Rocky,11/11/2015,d106,F,Y,0,0,0,0,Charadrius alexandrinus,107,36.42,315,37.26136788
+89,Maio,island,Rocky,19/10/2015,d11,F,Y,0,0,0,0,Charadrius alexandrinus,106,39.96,292,41.19241996
+90,Maio,island,Rocky,02/11/2015,d12,F,Y,0,0,0,0,Charadrius alexandrinus,115,44,306,42.48528546
+91,Maio,island,Rocky,23/09/2015,d2,F,Y,0,0,0,0,Charadrius alexandrinus,106,37.94,266,39.11012045
+92,Maio,island,Rocky,23/09/2015,d3,F,Y,0,0,1,1,Charadrius alexandrinus,111,39.24,266,38.98117131
+93,Maio,island,Rocky,22/09/2015,d4R,F,Y,0,0,0,0,Charadrius alexandrinus,106,35.91,265,37.01751253
+94,Maio,island,Rocky,25/09/2015,d6,F,N,0,0,0,0,Charadrius alexandrinus,107,39.54,268,40.45344553
+95,Maio,island,Rocky,30/09/2015,d7,F,Y,0,0,1,1,Charadrius alexandrinus,106,NA,273,NA
+96,Maio,island,Salinas,24/10/2015,d-13,F,N,0,0,0,0,Charadrius alexandrinus,109,40.9,297,41.22749908
+97,Maio,island,Salinas,28/10/2015,d-16,F,N,0,0,0,0,Charadrius alexandrinus,113,40.32,301,39.48405915
+98,Maio,island,Salinas,29/10/2015,d-201,F,N,0,0,0,0,Charadrius alexandrinus,107,39.29,302,40.19767008
+99,Maio,island,Salinas,30/09/2015,d-302,F,Y,0,0,0,0,Charadrius alexandrinus,103,36.97,273,38.99857485
+100,Maio,island,Salinas,16/10/2015,d-303,F,N,0,0,1,1,Charadrius alexandrinus,109,38.69,289,38.99980292
+101,Maio,island,Salinas,13/10/2015,d-9,F,N,0,0,0,0,Charadrius alexandrinus,103,36.84,286,38.86144164
+102,Maio,island,Salinas,29/09/2015,d17,F,Y,0,0,0,0,Charadrius alexandrinus,106,39.86,272,41.08933583
+103,Maio,island,Salinas,25/09/2015,d19,F,Y,0,0,1,1,Charadrius alexandrinus,112,44.34,268,43.73160055
+104,Maio,island,Salinas,06/10/2015,d20,F,N,0,0,0,0,Charadrius alexandrinus,110,44.31,279,44.33861572
+105,Maio,island,Salinas,05/10/2015,d22,F,Y,0,0,0,0,Charadrius alexandrinus,110,39.96,278,39.98580646
+106,Maio,island,Salinas,09/10/2015,d28,F,N,0,0,0,0,Charadrius alexandrinus,105,40.08,282,41.63164179
+107,Maio,island,Salinas,13/10/2015,d30,F,Y,0,0,0,0,Charadrius alexandrinus,111,44.15,286,43.85878474
+108,Maio,island,Salinas,01/10/2015,d301,F,N,0,0,0,0,Charadrius alexandrinus,106,47.4,274,48.86187953
+109,Maio,island,Salinas,14/10/2015,d302,F,N,0,0,1,1,Charadrius alexandrinus,108,38.1,287,38.69022903
+110,Maio,island,Salinas,06/10/2015,d303,F,Y,0,0,0,0,Charadrius alexandrinus,109,41.02,279,41.34845996
+111,Maio,island,Salinas,06/10/2015,d304,F,Y,0,0,0,0,Charadrius alexandrinus,108,40.95,279,41.58438002
+112,Maio,island,Salinas,13/10/2015,d307,F,Y,0,0,0,0,Charadrius alexandrinus,111,43.02,286,42.73623827
+113,Maio,island,Salinas,09/10/2015,d308,F,N,0,0,1,1,Charadrius alexandrinus,103,36.64,282,38.65046747
+114,Maio,island,Salinas,13/10/2015,d309,F,Y,0,0,0,0,Charadrius alexandrinus,111,38.34,286,38.08710775
+115,Maio,island,Salinas,13/10/2015,d31,F,N,0,0,0,0,Charadrius alexandrinus,109,39.2,286,39.51388665
+116,Maio,island,Salinas,12/10/2015,d310,F,Y,0,1,0,1,Charadrius alexandrinus,111,43.45,285,43.16340197
+117,Maio,island,Salinas,13/10/2015,d311,F,Y,0,0,0,0,Charadrius alexandrinus,107,39.08,286,39.9828187
+118,Maio,island,Salinas,21/10/2015,d313,F,N,0,1,0,1,Charadrius alexandrinus,108,40.52,294,41.14771864
+119,Maio,island,Salinas,26/10/2015,d315,F,N,0,0,0,0,Charadrius alexandrinus,110,39.57,299,39.5955546
+120,Maio,island,Salinas,23/10/2015,d316,F,N,0,0,0,0,Charadrius alexandrinus,103,37.69,296,39.75808185
+121,Maio,island,Salinas,15/10/2015,d32,F,Y,1,0,0,1,Charadrius alexandrinus,111,39.37,288,39.11031383
+122,Maio,island,Salinas,02/11/2015,d320,F,N,0,0,0,0,Charadrius alexandrinus,105,38.12,306,39.5957631
+123,Maio,island,Salinas,06/11/2015,d322,F,Y,0,0,0,0,Charadrius alexandrinus,110,47.17,310,47.20046273
+124,Maio,island,Salinas,12/11/2015,d323,F,N,0,0,0,0,Charadrius alexandrinus,106,41.2,316,42.47066322
+125,Maio,island,Salinas,23/10/2015,d35,F,Y,0,0,0,0,Charadrius alexandrinus,111,40.75,296,40.48121129
+126,Maio,island,Salinas,22/09/2015,d4,F,Y,0,0,0,0,Charadrius alexandrinus,108,39.34,265,39.94943858
+127,Maio,island,Salinas,30/10/2015,d41,F,Y,0,0,1,1,Charadrius alexandrinus,108,43.8,303,44.47853101
+128,Maio,island,Salinas,21/09/2015,d5,F,Y,0,0,0,0,Charadrius alexandrinus,109,39.41,264,39.72556818
+129,Cadiz,continent,la esperanza,20/04/2015,a16,M,Y,0,0,0,0,Charadrius alexandrinus,NA,43.02,110,NA
+130,Cadiz,continent,la esperanza,17/04/2015,a20,M,Y,0,0,0,0,Charadrius alexandrinus,NA,NA,107,NA
+131,Cadiz,continent,la esperanza,24/04/2015,a21,M,Y,0,0,0,0,Charadrius alexandrinus,114,37.25,114,36.22066614
+132,Cadiz,continent,la esperanza,24/04/2015,a22,M,Y,1,0,0,1,Charadrius alexandrinus,113,43.94,114,43.02900692
+133,Cadiz,continent,la esperanza,17/04/2015,a25,M,N,0,0,0,0,Charadrius alexandrinus,113,40.68,107,39.83659539
+134,Cadiz,continent,la esperanza,24/04/2015,a29,M,Y,0,0,0,0,Charadrius alexandrinus,112,42.93,114,42.34094749
+135,Cadiz,continent,la esperanza,24/04/2015,a34,M,Y,0,0,0,0,Charadrius alexandrinus,110,41.67,114,41.69691079
+136,Cadiz,continent,la esperanza,05/05/2015,a43,M,Y,0,0,0,0,Charadrius alexandrinus,114,42.74,125,41.55896029
+137,Cadiz,continent,la esperanza,04/05/2015,a44,M,Y,0,0,0,0,Charadrius alexandrinus,114,41.93,124,40.77134312
+138,Cadiz,continent,la esperanza,04/05/2015,a46,M,Y,0,0,0,0,Charadrius alexandrinus,114,40.52,124,39.40030582
+139,Cadiz,continent,la esperanza,18/05/2015,a57,M,Y,0,0,0,0,Charadrius alexandrinus,113,43,138,42.10849562
+140,Cadiz,continent,la esperanza,18/05/2015,a59,M,Y,0,0,0,0,Charadrius alexandrinus,114,43.06,138,41.87011769
+141,Cadiz,continent,la esperanza,19/05/2015,a60,M,N,0,0,0,0,Charadrius alexandrinus,115,42.32,139,40.86312001
+142,Cadiz,continent,la esperanza,25/05/2015,a65,M,Y,0,0,0,0,Charadrius alexandrinus,116,39.44,145,37.81854675
+143,Cadiz,continent,la esperanza,02/06/2015,a66,M,Y,0,1,0,1,Charadrius alexandrinus,112,37.45,153,36.93613984
+144,Cadiz,continent,la esperanza,26/05/2015,a68,M,Y,0,0,1,1,Charadrius alexandrinus,114,43.38,146,42.18127509
+145,Cadiz,continent,la esperanza,26/05/2015,a70,M,N,0,0,0,0,Charadrius alexandrinus,112,39.53,146,38.98759968
+146,Cadiz,continent,la esperanza,02/06/2015,a75,M,N,0,0,0,0,Charadrius alexandrinus,110,43.36,153,43.38800221
+147,Cadiz,continent,la esperanza,20/04/2015,a8,M,Y,0,0,0,0,Charadrius alexandrinus,111,40.95,110,40.67989208
+148,Canary,island,Arrecife,12/04/2016,bP 1,M,Y,0,0,0,0,Charadrius alexandrinus,NA,NA,103,NA
+149,Canary,island,Janubio,19/04/2016,bJ,M,Y,0,0,0,0,Charadrius alexandrinus,110,44,110,44.02841552
+150,Canary,island,Janubio,17/04/2016,bJN 1,M,Y,0,0,0,0,Charadrius alexandrinus,110,41,108,41.0264781
+151,Canary,island,Janubio,24/04/2016,bJN 2,M,N,0,0,0,0,Charadrius alexandrinus,113,38,115,37.21215892
+152,Canary,island,Janubio,12/06/2016,bJN 6,M,N,0,0,0,0,Charadrius alexandrinus,109,40,164,40.3202925
+153,Canary,island,Janubio,30/04/2016,bJS 4 ,M,Y,0,0,0,0,Charadrius alexandrinus,102,46,121,48.90551312
+154,Canary,island,Janubio,16/04/2016,bJS 6,M,Y,0,0,0,0,Charadrius alexandrinus,118,42,107,39.72451716
+155,Canary,island,La Santa,30/05/2016,bJS 8,M,Y,0,0,0,0,Charadrius alexandrinus,100,33,151,35.6464688
+156,Canary,island,La Santa,15/04/2016,bLS 1,M,Y,0,0,0,0,Charadrius alexandrinus,112,42,106,41.42370823
+157,Canary,island,Lajiares,02/05/2016,bLAJ 2,M,Y,0,0,0,0,Charadrius alexandrinus,109,41,123,41.32829981
+158,Canary,island,Lajiares,02/05/2016,bLAJ 3,M,Y,0,0,1,1,Charadrius alexandrinus,113,45,123,44.0670303
+159,Canary,island,Lajiares,29/05/2016,bLAJ 4,M,Y,0,0,0,0,Charadrius alexandrinus,111,40,150,39.73615832
+160,Donana,continent,"Abundancia, Isla Mayor",05/06/2015,c2,M,N,0,0,0,0,Charadrius alexandrinus,111.5,39.6,156,39.19714776
+161,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c543,M,Y,0,0,0,0,Charadrius alexandrinus,116.5,43.3,152,41.37677156
+162,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c547,M,N,0,0,0,0,Charadrius alexandrinus,113,41.2,152,40.3458144
+163,Donana,continent,"Abundancia, Isla Mayor",03/06/2015,c548,M,Y,0,0,0,0,Charadrius alexandrinus,115,42.5,154,41.03692345
+164,Donana,continent,"Abundancia, Isla Mayor",01/06/2015,c550,M,N,0,0,1,1,Charadrius alexandrinus,110,39.4,152,39.42544481
+165,Donana,continent,"Abundancia, Isla Mayor",03/06/2015,c552,M,Y,0,0,0,0,Charadrius alexandrinus,108,38.5,154,39.09642566
+166,Donana,continent,"Abundancia, Isla Mayor",03/06/2015,c567,M,N,0,0,0,0,Charadrius alexandrinus,107,40,154,40.92407236
+167,Donana,continent,"Abundancia, Isla Mayor",03/06/2015,c569,M,Y,0,0,0,0,Charadrius alexandrinus,111.5,40.5,154,40.08799203
+168,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",09/06/2015,c5,M,Y,0,0,0,0,Charadrius alexandrinus,113,37.5,160,36.72252525
+169,Donana,continent,"Arrozales de Alfonso XIII, Isla Mayor",09/06/2015,c570,M,Y,0,0,0,0,Charadrius alexandrinus,107,40,160,40.92407236
+170,Donana,continent,Brazo del Este,25/06/2015,c12,M,Y,0,0,0,0,Charadrius alexandrinus,105,43.8,176,45.49565645
+171,Donana,continent,Brazo del Este,16/06/2015,c23,M,Y,0,0,0,0,Charadrius alexandrinus,109,41.5,167,41.83230347
+172,Donana,continent,Brazo del Este,16/06/2015,c25,M,Y,0,0,0,0,Charadrius alexandrinus,106,38.8,167,39.99664401
+173,Donana,continent,Brazo del Este,16/06/2015,c26,M,Y,0,0,0,0,Charadrius alexandrinus,110,39.3,167,39.32538023
+174,Donana,continent,Brazo del Este,16/06/2015,c28,M,Y,0,0,1,1,Charadrius alexandrinus,109,40.6,167,40.92509689
+175,Donana,continent,Brazo del Este,15/06/2015,c29,M,N,0,0,0,0,Charadrius alexandrinus,114,42.8,166,41.6173023
+176,Donana,continent,Puebla del Rio,09/06/2015,c15,M,Y,0,0,0,0,Charadrius alexandrinus,113,39.7,160,38.87691339
+177,Donana,continent,Puebla del Rio,10/06/2015,c3,M,N,0,0,0,0,Charadrius alexandrinus,113,46.5,161,45.53593131
+178,Donana,continent,Puebla del Rio,10/06/2015,c556,M,Y,0,0,0,0,Charadrius alexandrinus,113,40.6,161,39.758254
+179,Donana,continent,Puebla del Rio,10/06/2015,c562,M,Y,0,0,1,1,Charadrius alexandrinus,107,37.4,161,38.26400766
+180,Donana,continent,Puebla del Rio,10/06/2015,c7,M,Y,0,0,0,0,Charadrius alexandrinus,109,36.7,161,36.99386837
+181,Maio,island,C,27/10/2015,d-1,M,N,0,0,0,0,Charadrius alexandrinus,114,38.37,300,37.30971704
+182,Maio,island,Rocky,07/10/2015,d-102,M,Y,0,0,0,0,Charadrius alexandrinus,113,36.9,280,36.13496484
+183,Maio,island,Rocky,14/10/2015,d-104,M,N,0,0,0,0,Charadrius alexandrinus,112,35.15,287,34.66769868
+184,Maio,island,Rocky,17/10/2015,d-105,M,Y,0,0,0,0,Charadrius alexandrinus,108,36.58,290,37.14668183
+185,Maio,island,Rocky,20/10/2015,d-106,M,Y,0,0,0,0,Charadrius alexandrinus,107,36.91,293,37.76268777
+186,Maio,island,Rocky,09/10/2015,d-3,M,N,0,0,0,0,Charadrius alexandrinus,109,36.71,282,37.00394844
+187,Maio,island,Rocky,30/10/2015,d103,M,N,0,0,0,0,Charadrius alexandrinus,105,42.18,303,43.81294039
+188,Maio,island,Rocky,11/11/2015,d106,M,Y,0,0,0,0,Charadrius alexandrinus,110,45,315,45.02906133
+189,Maio,island,Rocky,06/11/2015,d107,M,N,0,0,0,0,Charadrius alexandrinus,110,44,310,44.02841552
+190,Maio,island,Rocky,05/11/2015,d108,M,N,0,0,0,0,Charadrius alexandrinus,109,42.5,309,42.84031078
+191,Maio,island,Rocky,02/11/2015,d12,M,Y,0,0,0,0,Charadrius alexandrinus,107,46,306,47.06268321
+192,Maio,island,Rocky,24/09/2015,d2,M,Y,0,0,0,0,Charadrius alexandrinus,110,41.65,267,41.67689788
+193,Maio,island,Rocky,21/09/2015,d3,M,Y,0,0,0,0,Charadrius alexandrinus,104,37.71,264,39.47189471
+194,Maio,island,Rocky,25/09/2015,d4R,M,Y,0,0,0,0,Charadrius alexandrinus,108,40.26,268,40.88369083
+195,Maio,island,Rocky,25/09/2015,d5,M,Y,0,0,0,0,Charadrius alexandrinus,109,41.58,268,41.91294405
+196,Maio,island,Rocky,07/10/2015,d7,M,Y,0,0,0,0,Charadrius alexandrinus,108,41.73,280,42.37646345
+197,Maio,island,Rocky,13/10/2015,d101,M,Y,0,0,0,0,Charadrius alexandrinus,114,41.29,286,40.14902832
+198,Maio,island,Salinas,17/10/2015,d-11,M,N,0,0,0,0,Charadrius alexandrinus,109,37.19,290,37.48779195
+199,Maio,island,Salinas,28/10/2015,d-17,M,N,0,0,1,1,Charadrius alexandrinus,109,39.78,301,40.09853089
+200,Maio,island,Salinas,30/09/2015,d-302,M,Y,0,0,0,0,Charadrius alexandrinus,109,39.5,273,39.81628884
+201,Maio,island,Salinas,03/10/2015,d-5,M,N,0,0,1,1,Charadrius alexandrinus,108,38.8,276,39.40107313
+202,Maio,island,Salinas,24/09/2015,d11,M,Y,0,1,0,1,Charadrius alexandrinus,109,42.34,267,42.67902961
+203,Maio,island,Salinas,01/10/2015,d17,M,Y,0,0,0,0,Charadrius alexandrinus,108,36.69,274,37.25838591
+204,Maio,island,Salinas,29/09/2015,d19,M,Y,0,0,0,0,Charadrius alexandrinus,111,42.66,272,42.37861285
+205,Maio,island,Salinas,07/10/2015,d22,M,Y,0,0,1,1,Charadrius alexandrinus,109,40.92,280,41.24765923
+206,Maio,island,Salinas,15/10/2015,d30,M,Y,0,0,0,0,Charadrius alexandrinus,113,41.24,288,40.3849851
+207,Maio,island,Salinas,07/10/2015,d303,M,Y,0,0,0,0,Charadrius alexandrinus,107,43.91,280,44.92440043
+208,Maio,island,Salinas,09/10/2015,d304,M,Y,0,0,0,0,Charadrius alexandrinus,111,44.85,282,44.55416751
+209,Maio,island,Salinas,07/10/2015,d306,M,N,1,0,0,1,Charadrius alexandrinus,106,40.53,280,41.77999953
+210,Maio,island,Salinas,13/10/2015,d307,M,Y,0,0,0,0,Charadrius alexandrinus,112,40.62,286,40.06264353
+211,Maio,island,Salinas,15/10/2015,d309,M,Y,0,0,0,0,Charadrius alexandrinus,108,40.79,288,41.42190137
+212,Maio,island,Salinas,19/10/2015,d310,M,Y,0,0,0,0,Charadrius alexandrinus,105,40.17,292,41.72512602
+213,Maio,island,Salinas,15/10/2015,d311,M,Y,0,0,0,0,Charadrius alexandrinus,106,41.15,288,42.41912116
+214,Maio,island,Salinas,29/10/2015,d317,M,N,0,0,0,0,Charadrius alexandrinus,109,38.75,302,39.06028336
+215,Maio,island,Salinas,15/10/2015,d32,M,Y,0,1,0,1,Charadrius alexandrinus,109,37.86,288,38.16315685
+216,Maio,island,Salinas,12/11/2015,d322,M,Y,0,1,0,1,Charadrius alexandrinus,107,48.43,316,49.54882061
+217,Maio,island,Salinas,23/10/2015,d35,M,Y,0,0,0,0,Charadrius alexandrinus,112,41.45,296,40.88125491
+218,Maio,island,Salinas,24/09/2015,d4,M,Y,0,0,0,0,Charadrius alexandrinus,111,41.18,267,40.90837499
+219,Maio,island,Salinas,02/11/2015,d41,M,Y,0,0,0,0,Charadrius alexandrinus,101,39.59,306,42.4247896
